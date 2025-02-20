@@ -39,5 +39,8 @@ The LSTM network starts generating words after each input thus forming a sentenc
 # Caption Generation Utility Functions
 Utility functions to generate the captions of input images at the inference time.
 Here the image embeddings are passed along with the first word, followed by which the text embedding of each new word is passed to generate the next word
+
+# Results 
 ![canva](https://github.com/user-attachments/assets/620ca5d2-85b7-4953-ac63-6193b1d875bc)
 
+![Screenshot (22)](https://github.com/user-attachments/assets/6fc0345d-6b9d-4fae-81ff-c35b517c023b)
